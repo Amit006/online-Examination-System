@@ -1,0 +1,63 @@
+.header {
+	font-family: Verdana;
+	font-size: 28px;
+	color: #D8544E;
+	text-align: center;
+}
+
+.style1 {
+	font-family: Verdana;
+	font-size: 18px;
+	color: #FFFFFF;
+	text-align: center;
+}
+
+.style2 {
+    display: inline-block;
+    font-size: 16px;
+    font-family: Verdana;
+    color: #0F857F;
+    margin: 8px 0;
+    /*border: 2px solid #0BC1D2; */
+}
+
+.button1 {
+	background-color: #086078;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 2px;
+    cursor: pointer;
+}
+
+.button2 {
+	background-color: #089C6F;
+ 	border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.verticalLine {
+  border-left: thick solid #ff0000;
+}
+
+.drop_view {
+ 	width:434px;
+ 	height:32px;
+ 	font-family: Verdana;   
+ 	border: 2px solid #0BC1D2;
+}
+
+.style8 {
+    font-family: Verdana;
+}
